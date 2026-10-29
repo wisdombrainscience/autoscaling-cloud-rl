@@ -1,0 +1,22 @@
+[Oracle/2]  bc000 ce=1.098
+[Oracle/2]  bc025 ce=0.521
+[Oracle/2]  bc050 ce=0.588
+[Oracle/2]  bc075 ce=0.489
+[Oracle/2]  bc100 ce=0.400
+[Oracle/2]  bc125 ce=0.378
+[Oracle/2]  it000 ret=-100.4 viol=1.95% vms=10.05 [28s]
+[Oracle/2]  it020 ret=-105.3 viol=1.09% vms=11.82 [57s]
+[Oracle/2]  it040 ret=-82.6 viol=1.50% vms=9.92 [86s]
+[Oracle/2]  it060 ret=-120.3 viol=2.71% vms=10.92 [115s]
+[Oracle/2]  it080 ret=-102.8 viol=2.06% vms=10.73 [144s]
+[Oracle/2]  it100 ret=-101.5 viol=2.32% vms=10.36 [173s]
+[Oracle/2]  it120 ret=-101.8 viol=2.11% vms=10.55 [202s]
+[Oracle/2]  it140 ret=-106.2 viol=2.52% vms=10.53 [232s]
+[Oracle/2]  it160 ret=-112.7 viol=2.11% vms=10.05 [259s]
+[Oracle/2]  it180 ret=-93.8 viol=1.80% vms=9.64 [288s]
+[Oracle/2]  it200 ret=-111.1 viol=2.19% vms=11.08 [317s]
+[Oracle/2]  it220 ret=-96.7 viol=1.74% vms=10.29 [345s]
+[Oracle/2]  it240 ret=-115.2 viol=1.69% vms=10.93 [374s]
+[Oracle/2]  it259 ret=-110.2 viol=2.45% vms=10.78 [401s]
+[Oracle/2]  selected it119 val=-104.57
+Oracle 2 ID viol 1.7961165048543688 vms 12.291019417475729 OOD viol 6.868932038834951 403s

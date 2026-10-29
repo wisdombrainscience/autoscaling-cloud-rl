@@ -1,0 +1,22 @@
+[MLP/4]  bc000 ce=1.098
+[MLP/4]  bc025 ce=0.579
+[MLP/4]  bc050 ce=0.528
+[MLP/4]  bc075 ce=0.493
+[MLP/4]  bc100 ce=0.382
+[MLP/4]  bc125 ce=0.261
+[MLP/4]  it000 ret=-106.7 viol=2.41% vms=10.48 [15s]
+[MLP/4]  it020 ret=-103.1 viol=2.02% vms=10.89 [21s]
+[MLP/4]  it040 ret=-102.9 viol=2.06% vms=10.48 [27s]
+[MLP/4]  it060 ret=-109.8 viol=2.67% vms=10.95 [34s]
+[MLP/4]  it080 ret=-92.7 viol=1.97% vms=10.26 [40s]
+[MLP/4]  it100 ret=-88.9 viol=2.32% vms=10.05 [46s]
+[MLP/4]  it120 ret=-106.4 viol=2.15% vms=10.01 [53s]
+[MLP/4]  it140 ret=-89.9 viol=1.97% vms=9.91 [59s]
+[MLP/4]  it160 ret=-92.2 viol=2.21% vms=9.28 [66s]
+[MLP/4]  it180 ret=-106.8 viol=2.54% vms=10.06 [72s]
+[MLP/4]  it200 ret=-119.6 viol=2.41% vms=10.51 [79s]
+[MLP/4]  it220 ret=-103.2 viol=2.93% vms=10.46 [85s]
+[MLP/4]  it240 ret=-94.6 viol=2.82% vms=10.76 [91s]
+[MLP/4]  it259 ret=-97.9 viol=1.80% vms=10.18 [97s]
+[MLP/4]  selected it259 val=-94.07
+MLP 4 ID viol 2.2572815533980584 vms 10.784466019417474 OOD viol 13.802588996763754 99s

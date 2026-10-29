@@ -1,0 +1,22 @@
+[Ours/4]  bc000 ce=1.099
+[Ours/4]  bc025 ce=0.581
+[Ours/4]  bc050 ce=0.545
+[Ours/4]  bc075 ce=0.534
+[Ours/4]  bc100 ce=0.445
+[Ours/4]  bc125 ce=0.353
+[Ours/4]  it000 ret=-110.1 viol=2.80% vms=10.65 [28s]
+[Ours/4]  it020 ret=-109.3 viol=1.02% vms=12.24 [57s]
+[Ours/4]  it040 ret=-104.2 viol=1.89% vms=10.88 [86s]
+[Ours/4]  it060 ret=-111.7 viol=2.71% vms=11.29 [115s]
+[Ours/4]  it080 ret=-93.7 viol=1.91% vms=10.58 [144s]
+[Ours/4]  it100 ret=-89.9 viol=2.11% vms=10.46 [173s]
+[Ours/4]  it120 ret=-108.2 viol=2.65% vms=9.98 [202s]
+[Ours/4]  it140 ret=-91.1 viol=2.34% vms=9.90 [230s]
+[Ours/4]  it160 ret=-93.0 viol=2.19% vms=9.49 [261s]
+[Ours/4]  it180 ret=-105.6 viol=2.11% vms=10.17 [290s]
+[Ours/4]  it200 ret=-119.8 viol=2.28% vms=10.66 [320s]
+[Ours/4]  it220 ret=-102.1 viol=2.56% vms=10.63 [351s]
+[Ours/4]  it240 ret=-93.5 viol=2.39% vms=10.94 [381s]
+[Ours/4]  it259 ret=-98.5 viol=2.15% vms=10.03 [409s]
+[Ours/4]  selected it259 val=-97.57
+Ours 4 ID viol 2.0792880258899675 vms 11.102265372168285 OOD viol 11.779935275080907 412s
