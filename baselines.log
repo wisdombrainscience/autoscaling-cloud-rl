@@ -1,0 +1,5 @@
+Threshold {'ret': -201.762, 'viol': 3.657, 'over': 0.427, 'vms': 10.456, 'util': 51.813, 'actions': 83.125, 'rho_std': 8.147, 'cost': 161.545, 'overprov': 2.066} | OOD viol 16.47
+HPA {'ret': -202.867, 'viol': 3.948, 'over': 0.419, 'vms': 10.389, 'util': 52.295, 'actions': 78.125, 'rho_std': 8.378, 'cost': 160.516, 'overprov': 1.999} | OOD viol 12.75
+PredQuantile-q95 {'ret': -191.625, 'viol': 2.88, 'over': 0.337, 'vms': 10.441, 'util': 51.628, 'actions': 102.917, 'rho_std': 8.306, 'cost': 161.31, 'overprov': 2.051} | OOD viol 13.16
+PredQuantile-q99 {'ret': -193.431, 'viol': 2.128, 'over': 0.25, 'vms': 10.768, 'util': 50.07, 'actions': 198.292, 'rho_std': 8.121, 'cost': 166.362, 'overprov': 2.378} | OOD viol 11.5
+StaticPeak {'ret': -255.689, 'viol': 0.0, 'over': 0.0, 'vms': 16.542, 'util': 33.535, 'actions': 0.0, 'rho_std': 7.047, 'cost': 255.569, 'overprov': 8.152} | OOD viol 0.02

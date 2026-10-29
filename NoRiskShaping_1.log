@@ -1,0 +1,22 @@
+[NoRiskShaping/1]  bc000 ce=1.097
+[NoRiskShaping/1]  bc025 ce=0.564
+[NoRiskShaping/1]  bc050 ce=0.533
+[NoRiskShaping/1]  bc075 ce=0.477
+[NoRiskShaping/1]  bc100 ce=0.398
+[NoRiskShaping/1]  bc125 ce=0.314
+[NoRiskShaping/1]  it000 ret=-112.1 viol=2.34% vms=10.38 [27s]
+[NoRiskShaping/1]  it020 ret=-124.7 viol=1.45% vms=12.83 [57s]
+[NoRiskShaping/1]  it040 ret=-97.3 viol=2.21% vms=9.35 [84s]
+[NoRiskShaping/1]  it060 ret=-105.5 viol=2.04% vms=10.38 [113s]
+[NoRiskShaping/1]  it080 ret=-94.9 viol=3.15% vms=9.29 [141s]
+[NoRiskShaping/1]  it100 ret=-122.0 viol=3.26% vms=11.17 [169s]
+[NoRiskShaping/1]  it120 ret=-114.0 viol=3.45% vms=11.33 [198s]
+[NoRiskShaping/1]  it140 ret=-100.0 viol=2.93% vms=10.64 [227s]
+[NoRiskShaping/1]  it160 ret=-102.1 viol=4.01% vms=10.02 [256s]
+[NoRiskShaping/1]  it180 ret=-90.3 viol=2.28% vms=9.65 [285s]
+[NoRiskShaping/1]  it200 ret=-108.9 viol=2.76% vms=10.60 [315s]
+[NoRiskShaping/1]  it220 ret=-98.9 viol=3.04% vms=10.18 [344s]
+[NoRiskShaping/1]  it240 ret=-97.8 viol=2.34% vms=9.60 [374s]
+[NoRiskShaping/1]  it259 ret=-91.1 viol=3.49% vms=8.99 [402s]
+[NoRiskShaping/1]  selected it159 val=-97.12
+NoRiskShaping 1 ID viol 2.4029126213592233 vms 11.146925566343043 OOD viol 10.687702265372168 405s

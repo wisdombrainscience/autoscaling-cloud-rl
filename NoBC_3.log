@@ -1,0 +1,16 @@
+[NoBC/3]  it000 ret=-1316.2 viol=49.24% vms=8.44 [2s]
+[NoBC/3]  it020 ret=-119.4 viol=1.52% vms=11.52 [31s]
+[NoBC/3]  it040 ret=-124.1 viol=1.89% vms=12.10 [60s]
+[NoBC/3]  it060 ret=-101.7 viol=1.78% vms=11.25 [90s]
+[NoBC/3]  it080 ret=-123.8 viol=2.89% vms=11.15 [122s]
+[NoBC/3]  it100 ret=-123.0 viol=2.82% vms=11.26 [153s]
+[NoBC/3]  it120 ret=-98.2 viol=1.04% vms=10.69 [185s]
+[NoBC/3]  it140 ret=-96.6 viol=1.43% vms=10.78 [217s]
+[NoBC/3]  it160 ret=-128.8 viol=1.97% vms=10.71 [248s]
+[NoBC/3]  it180 ret=-106.9 viol=1.19% vms=11.32 [277s]
+[NoBC/3]  it200 ret=-98.9 viol=2.02% vms=10.19 [307s]
+[NoBC/3]  it220 ret=-120.7 viol=3.23% vms=11.37 [338s]
+[NoBC/3]  it240 ret=-100.7 viol=1.95% vms=11.48 [367s]
+[NoBC/3]  it259 ret=-129.6 viol=4.51% vms=10.38 [395s]
+[NoBC/3]  selected it119 val=-102.49
+NoBC 3 ID viol 2.1197411003236244 vms 11.464401294498382 OOD viol 19.223300970873783 398s

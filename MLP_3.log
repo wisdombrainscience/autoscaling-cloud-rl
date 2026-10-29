@@ -1,0 +1,22 @@
+[MLP/3]  bc000 ce=1.097
+[MLP/3]  bc025 ce=0.601
+[MLP/3]  bc050 ce=0.518
+[MLP/3]  bc075 ce=0.470
+[MLP/3]  bc100 ce=0.330
+[MLP/3]  bc125 ce=0.221
+[MLP/3]  it000 ret=-100.0 viol=2.11% vms=10.94 [15s]
+[MLP/3]  it020 ret=-108.2 viol=1.91% vms=10.99 [21s]
+[MLP/3]  it040 ret=-112.2 viol=2.56% vms=11.14 [27s]
+[MLP/3]  it060 ret=-101.0 viol=2.58% vms=9.32 [34s]
+[MLP/3]  it080 ret=-112.2 viol=2.80% vms=11.07 [40s]
+[MLP/3]  it100 ret=-104.3 viol=2.39% vms=10.34 [47s]
+[MLP/3]  it120 ret=-103.9 viol=2.24% vms=10.02 [53s]
+[MLP/3]  it140 ret=-96.8 viol=2.32% vms=9.54 [60s]
+[MLP/3]  it160 ret=-91.7 viol=2.84% vms=9.74 [66s]
+[MLP/3]  it180 ret=-96.5 viol=2.26% vms=9.54 [72s]
+[MLP/3]  it200 ret=-100.4 viol=2.82% vms=10.29 [79s]
+[MLP/3]  it220 ret=-103.8 viol=2.45% vms=9.83 [85s]
+[MLP/3]  it240 ret=-111.2 viol=2.63% vms=10.00 [91s]
+[MLP/3]  it259 ret=-104.2 viol=2.47% vms=9.41 [97s]
+[MLP/3]  selected it199 val=-95.09
+MLP 3 ID viol 3.2605177993527508 vms 10.451618122977345 OOD viol 16.925566343042075 99s

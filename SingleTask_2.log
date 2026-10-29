@@ -1,0 +1,22 @@
+[SingleTask/2]  bc000 ce=1.099
+[SingleTask/2]  bc025 ce=0.520
+[SingleTask/2]  bc050 ce=0.586
+[SingleTask/2]  bc075 ce=0.484
+[SingleTask/2]  bc100 ce=0.389
+[SingleTask/2]  bc125 ce=0.351
+[SingleTask/2]  it000 ret=-103.8 viol=2.28% vms=10.36 [27s]
+[SingleTask/2]  it020 ret=-105.1 viol=1.32% vms=11.32 [56s]
+[SingleTask/2]  it040 ret=-100.6 viol=1.35% vms=10.77 [88s]
+[SingleTask/2]  it060 ret=-101.8 viol=1.61% vms=10.66 [118s]
+[SingleTask/2]  it080 ret=-100.2 viol=1.13% vms=10.68 [148s]
+[SingleTask/2]  it100 ret=-101.5 viol=1.65% vms=10.59 [178s]
+[SingleTask/2]  it120 ret=-98.6 viol=1.26% vms=10.55 [206s]
+[SingleTask/2]  it140 ret=-99.0 viol=1.24% vms=10.52 [235s]
+[SingleTask/2]  it160 ret=-100.4 viol=1.50% vms=10.53 [264s]
+[SingleTask/2]  it180 ret=-99.2 viol=1.45% vms=10.43 [294s]
+[SingleTask/2]  it200 ret=-100.8 viol=1.69% vms=10.50 [322s]
+[SingleTask/2]  it220 ret=-97.8 viol=0.87% vms=10.59 [352s]
+[SingleTask/2]  it240 ret=-100.6 viol=1.28% vms=10.62 [383s]
+[SingleTask/2]  it259 ret=-100.6 viol=1.43% vms=10.64 [414s]
+[SingleTask/2]  selected it199 val=-99.28
+SingleTask 2 ID viol 2.411003236245955 vms 11.299919093851132 OOD viol 10.784789644012946 416s

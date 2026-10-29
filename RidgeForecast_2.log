@@ -1,0 +1,22 @@
+[RidgeForecast/2]  bc000 ce=1.099
+[RidgeForecast/2]  bc025 ce=0.306
+[RidgeForecast/2]  bc050 ce=0.400
+[RidgeForecast/2]  bc075 ce=0.309
+[RidgeForecast/2]  bc100 ce=0.274
+[RidgeForecast/2]  bc125 ce=0.274
+[RidgeForecast/2]  it000 ret=-105.0 viol=2.65% vms=10.29 [28s]
+[RidgeForecast/2]  it020 ret=-108.2 viol=0.98% vms=12.20 [57s]
+[RidgeForecast/2]  it040 ret=-81.2 viol=1.54% vms=9.60 [87s]
+[RidgeForecast/2]  it060 ret=-119.3 viol=2.80% vms=10.94 [118s]
+[RidgeForecast/2]  it080 ret=-102.0 viol=2.56% vms=10.63 [150s]
+[RidgeForecast/2]  it100 ret=-99.1 viol=2.26% vms=10.18 [180s]
+[RidgeForecast/2]  it120 ret=-99.4 viol=1.87% vms=10.51 [210s]
+[RidgeForecast/2]  it140 ret=-106.3 viol=3.30% vms=10.10 [239s]
+[RidgeForecast/2]  it160 ret=-111.1 viol=2.26% vms=9.98 [271s]
+[RidgeForecast/2]  it180 ret=-91.9 viol=1.80% vms=9.52 [303s]
+[RidgeForecast/2]  it200 ret=-110.1 viol=2.65% vms=10.89 [334s]
+[RidgeForecast/2]  it220 ret=-95.4 viol=2.17% vms=9.97 [364s]
+[RidgeForecast/2]  it240 ret=-112.4 viol=1.89% vms=10.62 [394s]
+[RidgeForecast/2]  it259 ret=-108.4 viol=2.56% vms=10.64 [424s]
+[RidgeForecast/2]  selected it259 val=-96.43
+RidgeForecast 2 ID viol 2.2977346278317152 vms 10.878559870550163 OOD viol 10.05663430420712 427s

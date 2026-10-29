@@ -1,0 +1,22 @@
+[PointForecast/2]  bc000 ce=1.098
+[PointForecast/2]  bc025 ce=0.925
+[PointForecast/2]  bc050 ce=0.712
+[PointForecast/2]  bc075 ce=0.596
+[PointForecast/2]  bc100 ce=0.424
+[PointForecast/2]  bc125 ce=0.300
+[PointForecast/2]  it000 ret=-204.4 viol=31.12% vms=7.23 [27s]
+[PointForecast/2]  it020 ret=-104.9 viol=6.55% vms=9.01 [56s]
+[PointForecast/2]  it040 ret=-79.4 viol=1.43% vms=9.57 [86s]
+[PointForecast/2]  it060 ret=-115.4 viol=2.69% vms=10.77 [115s]
+[PointForecast/2]  it080 ret=-99.3 viol=2.69% vms=10.48 [144s]
+[PointForecast/2]  it100 ret=-98.2 viol=1.93% vms=10.41 [173s]
+[PointForecast/2]  it120 ret=-98.5 viol=1.39% vms=10.80 [201s]
+[PointForecast/2]  it140 ret=-103.0 viol=2.34% vms=10.52 [231s]
+[PointForecast/2]  it160 ret=-108.6 viol=2.00% vms=10.06 [261s]
+[PointForecast/2]  it180 ret=-90.7 viol=1.58% vms=9.73 [291s]
+[PointForecast/2]  it200 ret=-108.0 viol=2.99% vms=10.73 [320s]
+[PointForecast/2]  it220 ret=-94.1 viol=2.15% vms=10.05 [350s]
+[PointForecast/2]  it240 ret=-111.4 viol=2.67% vms=10.34 [379s]
+[PointForecast/2]  it259 ret=-106.2 viol=2.52% vms=10.71 [406s]
+[PointForecast/2]  selected it19 val=-97.45
+PointForecast 2 ID viol 4.692556634304207 vms 10.179935275080906 OOD viol 17.38673139158576 408s
